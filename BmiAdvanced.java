@@ -9,7 +9,12 @@ public class BmiAdvanced {
 
         //Scanner initiation
         Scanner sc = new Scanner(System.in);
-
+        System.out.print("What's your Weight in Kilograms: ");
+        System.out.print("What's your Weight in Kilograms: ");
+        System.out.print("What's your Weight in Kilograms: ");
+        System.out.print("What's your Weight in Kilograms: ");
+        System.out.print("What's your Weight in Kilograms: ");
+        System.out.print("What's your Weight in Kilograms: ");
         //Read Weight from keyboard
         System.out.print("What's your Weight in Kilograms: ");
         weight = sc.nextInt();
